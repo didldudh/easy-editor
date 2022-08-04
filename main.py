@@ -11,7 +11,7 @@ win.resize(900, 500)
 win.move(0, 0)
 win.setWindowTitle('Easy Editor')
 win.setStyleSheet('color: lime;'
-                  'background-color: black;')
+                  'background-color: white;')
 lb_image = QLabel("🖼")
 lb_image.setFont(QFont('Mistral', 300))
 lb_image.setStyleSheet("color: #00ff9d;"
